@@ -1,2 +1,3 @@
-# transistor-data
-Collection of transistor characteristics collected via custom made transistor meter
+# Transistor Data
+
+Collection of transistor characteristics collected via custom made transistor meter.
